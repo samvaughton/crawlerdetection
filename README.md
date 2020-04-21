@@ -8,11 +8,11 @@ Tiny Go library to detect if a useragent is a bot, spider, crawler etc. Uses htt
 
 ### API
 
- - `GetCrawler(string) CrawlerPattern`
- - `IsCrawler(string) bool`
+ - `crawlerdetection.GetCrawler(string) CrawlerPattern`
+ - `crawlerdetection.IsCrawler(string) bool`
  
 ## Examples
 
-`IsCrawler("Googlebot/2.1")` ***` = true`***
+`crawlerdetection.IsCrawler("Googlebot/2.1")` ***` = true`***
 
 

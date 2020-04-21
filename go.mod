@@ -1,3 +1,3 @@
-module github.com/samvaughton/go-crawler-detection
+module crawlerdetection
 
 go 1.14
