@@ -4,7 +4,7 @@ Tiny Go library to detect if a useragent is a bot, spider, crawler etc. Uses htt
 
 ## Usage
 
-`import github.com/samvaughton/go-crawler-detection`
+`import github.com/samvaughton/crawlerdetection`
 
 ### API
 
